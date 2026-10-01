@@ -1,0 +1,20 @@
+body{
+ background-color: black;
+ width: calc(100vw - 150px);
+ text-align: center;
+}
+
+h1, h2, p {
+color: white;
+}
+
+img{
+    width: 5in;
+    height: 3in;
+}
+hr{
+ border: 1px solid white;
+ height: 1px;
+ width: 100%;   
+ fill: white;
+}
