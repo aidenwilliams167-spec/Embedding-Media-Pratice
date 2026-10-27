@@ -1,20 +1,22 @@
 body{
- background-color: black;
- width: calc(100vw - 150px);
- text-align: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 25px;
 }
 
-h1, h2, p {
-color: white;
+p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
 }
 
 img{
-    width: 5in;
-    height: 3in;
+    width: 630px;
+    height: 450px;
 }
-hr{
- border: 1px solid white;
- height: 1px;
- width: 100%;   
- fill: white;
+
+audio {
+    margin-top: 50px;
+     margin-bottom: 50px;
 }
